@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Spandan Kar" },
+  { "id": 2, "name": "Leonardo DiCaprio" },
+  { "id": 3, "name": "Brad Pitt" },
+  { "id": 4, "name": "Tom Cruise" },
+  { "id": 5, "name": "Robert Downey Jr." },
+  { "id": 6, "name": "Chris Evans" },
+  { "id": 7, "name": "Christian Bale" },
+  { "id": 8, "name": "Matt Damon" },
+  { "id": 9, "name": "Johnny Depp" },
+  { "id": 10, "name": "Hugh Jackman" },
+  { "id": 11, "name": "Denzel Washington" },
+  { "id": 12, "name": "Keanu Reeves" },
+  { "id": 13, "name": "Ryan Gosling" },
+  { "id": 14, "name": "Will Smith" },
+  { "id": 15, "name": "Mark Wahlberg" },
+  { "id": 16, "name": "Chris Hemsworth" },
+  { "id": 17, "name": "Joaquin Phoenix" },
+  { "id": 18, "name": "Henry Cavill" },
+  { "id": 19, "name": "Benedict Cumberbatch" },
+  { "id": 20, "name": "Jake Gyllenhaal" }
+]
